@@ -92,8 +92,6 @@ An AI-powered interview preparation platform designed to help candidates practic
 
 **Core Computer Science:** Data Structures and Algorithms, Object-Oriented Programming, DBMS, Operating Systems, Computer Networks.
 
-**Cybersecurity:** SSH Honeypots, Network Security, Vulnerability Assessment, Threat Detection, IP Reputation Analysis.
-
 **Databases:** SQL, MySQL.
 
 ---
