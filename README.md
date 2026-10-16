@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Abishek D 👋</h1>
-<p align="center">Aspiring Software Engineer | Cybersecurity Enthusiast | Problem Solver</p>
+<p align="center">Aspiring Software Engineer | Developer | </p>
 
 ```yaml
 name: Abishek D
@@ -8,7 +8,7 @@ education: "B.E. Computer Science and Engineering, Karpagam Academy of Higher Ed
 looking_for: Digital Specialist Engineer / Software Developer roles
 technical_background:
   - Java and Python
-  - Web Development (HTML5, CSS3, JavaScript ES6, React.js)
+  - Web Development (HTML, CSS, JavaScript,React.js)
   - SQL and MySQL
   - Data Structures and Algorithms
   - Network Security and SSH Honeypots
